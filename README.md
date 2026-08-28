@@ -5,43 +5,9 @@
 A smart digital home security system designed to provide secure,
 convenient, and reliable access control for residential spaces.
 
-## ✨ Key Features
 
-### 🔑 Password Authentication
-Provides secure access using a password and helps ensure that only
-authorized users can enter.
 
-### 🚫 Unauthorized Access Protection
-Helps prevent unwanted entry by restricting access to users with an
-incorrect password.
 
-### 🚪 Digital Door Lock
-Provides electronic control of the door locking and unlocking process,
-reducing the need for traditional keys.
-
-### 🏠 Inside & Outside Access
-Supports secure access management for people entering and leaving the
-house.
-
-### ⏱️ Automatic Door Closing
-Helps improve security when a person accidentally leaves the door open
-by providing automatic closing after a predefined time.
-
-### 🔓 Inside Unlocking
-Provides a convenient way to unlock the door from inside when leaving
-the house.
-
-### 🔒 Enhanced Security
-Combines multiple security features to provide an additional layer of
-protection for the home.
-
-### ⚡ Fast Digital Operation
-Provides quick and consistent response for different door-access
-requirements.
-
-### 🏡 User Convenience
-Reduces the need for manual key-based access and provides a convenient
-way to manage home entry and exit.
 
 ## 💡 Why We Use This System
 
@@ -52,6 +18,7 @@ way to manage home entry and exit.
 - To provide automatic door protection
 - To make home access more convenient
 - To demonstrate a smart digital security solution
+  
 
 ## 🌟 Advantages
 
@@ -102,6 +69,14 @@ This project was developed as a collaborative effort by **Team
 Parashurama**. The team worked together throughout the project,
 from initial idea and design to implementation, testing, and
 documentation.
+## 👥 Team Members
+
+
+
+- Rohini Naga Krishnavi 
+- Arvind 
+-  Devi
+- Satish
 
 ## 📜 Conclusion
 
